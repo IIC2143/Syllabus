@@ -1,4 +1,4 @@
-# IIC2143 - Ingeniería de Software 2024-2
+# IIC2143 - Ingeniería de Software 2025-1
 
 Bienvenido al sitio web del curso Ingeniería de Software. En esta página podrás encontrar la información administrativa del curso y en el repositorio podrás encontrar:
 * Los enunciados de las entregas.
