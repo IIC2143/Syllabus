@@ -21,27 +21,21 @@ Tambien contamos con un repositorio dedicado a lo que es el _SetUp_ del curso, e
 
 | Nombre                      | Email                     | Github                                                               |
 |-----------------------------|---------------------------|----------------------------------------------------------------------|
-| Valeria Nazal | valeria.nazal@uc.cl | [@valerianazal](https://github.com/valerianazal) |
-| Xaviera Jorquera | xaviera.jorquera@uc.cl | [@XaviJorquera](https://github.com/XaviJorquera) |
+| Francisca Cares | fccares@uc.cl | [@franciscares](https://github.com/franciscares) |
+| Ariadna Feuerstein | Ayfeuerstein@uc.cl | [@Ariimaw](https://github.com/Ariimaw) |
 | Nicolás Fernández | nifernandez@uc.cl | [@TheMightyTsar](https://github.com/TheMightyTsar) |
 | Ignacio Sanhueza | ignaciosanhueza233@uc.cl | [@ignacio-sp](https://github.com/ignacio-sp) |
 | Sofia Rencoret | srencoret@uc.cl | [@Srencoret](https://github.com/Srencoret) |
 | Jean Philipe Fuentes | jhfuentes@uc.cl | [@jean-Philipe](https://github.com/jean-Philipe) |
-| Raimundo Javier Escalona | Rjescalona@uc.cl | [@RaiEscalona](https://github.com/RaiEscalona) |
+| Sebastian Passi| Sebastian.passim@uc.cl | [@SebaPassi](https://github.com/SebaPassi) |
 | Dominique Andrea Soto | dominique.soto@uc.cl | [@Dominique236](https://github.com/Dominique236) |
-| Maria Esperanza Acevedo | esperanza.acevedo@uc.cl | [@esperanzaacevedo](https://github.com/esperanzaacevedo) |
+| Rodolfo Armas | rarmas@uc.cl | [@Armas01](https://github.com/Armas01) |
 | Constanza Huerta | constanzamalia@uc.cl | [@ConiiiH](https://github.com/ConiiiH) |
 | Noam Tanaka | noam.vieira@uc.cl | [@noamsito](https://github.com/noamsito) |
-| Martin Orrego | martinorregosilva@uc.cl| [@OrregoSilva](https://github.com/OrregoSilva) |
+| Eduardo Esquivel | eaesquivel@uc.cl| [@eduesquivel](https://github.com/eduesquivel) |
 | Jorge De Goyeneche | jorgedg611@uc.cl | [@jorgedg6](https://github.com/jorgedg6) |
-| Daniel Larco | dlarco@uc.cl | [@danilarco](https://github.com/danilarco) |
-| Pablo Bustos | pablo.bustos@uc.cl | [@pablobustose](https://github.com/pablobustose) |
-| Julio Huerta | jihuerta@uc.cl | [@Julius9](https://github.com/Julius9) |
-| Alvaro Romero | Aaromero1@uc.cl | [@Aaromero1](https://github.com/Aaromero1) |
 | Andrea Gutiérrez | ags@uc.cl | [@AndreaPGS](https://github.com/AndreaPGS) |
-| Constanza Ahumada | cahumadar@uc.cl | [@cotyahumada](https://github.com/cotyahumada) |
-| Luciana Nova | luciana.nova@uc.cl| [@LuNov4](https://github.com/LuNov4) |
-| Vicente Thomas | vicente.thomas@uc.cl | [@vicentethomas](https://github.com/vicentethomas) |
+
 
 ## Foro
 
