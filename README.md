@@ -33,7 +33,6 @@ Tambien contamos con un repositorio dedicado a lo que es el _SetUp_ del curso, e
 | Constanza Huerta | constanzamalia@uc.cl | [@ConiiiH](https://github.com/ConiiiH) |
 | Noam Tanaka | noam.vieira@uc.cl | [@noamsito](https://github.com/noamsito) |
 | Eduardo Esquivel | eaesquivel@uc.cl| [@eduesquivel](https://github.com/eduesquivel) |
-| Jorge De Goyeneche | jorgedg611@uc.cl | [@jorgedg6](https://github.com/jorgedg6) |
 | Andrea Gutiérrez | ags@uc.cl | [@AndreaPGS](https://github.com/AndreaPGS) |
 
 
