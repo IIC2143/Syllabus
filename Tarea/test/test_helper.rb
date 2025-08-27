@@ -87,6 +87,8 @@ module ActiveSupport
         ActiveSupport::TestCase.class_variable_get(:@@failed_tests),
         ActiveSupport::TestCase.feedback_message(@@total_score)
       )
+
+      puts "\nPuntaje total: #{@@total_score.round(2)}/#{ActiveSupport::TestCase::MAX_SCORE}"
       
       report.generate(Rails.root.join("public", "test_report.html"))
     end
